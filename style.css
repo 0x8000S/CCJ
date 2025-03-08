@@ -33,3 +33,10 @@ button {
 button:hover {
 	border: 2px solid rgb(39, 39, 39);
 }
+
+.hit {
+	position: absolute;
+	bottom: 0%;
+	left: 50%;
+	transform: translateX(-50%);
+}

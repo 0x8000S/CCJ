@@ -1,6 +1,6 @@
 
 var testbtn = document.getElementById("run")
-var list = ['apple', 'banana', 'cow', 'dog', 'path', 'function']
+var list = ["可口可乐*6", "百事可乐*6",	"雪碧*6", "薯片*2", "奥利奥*2"]
 var root = document.querySelector(".root")
 
 function getRandomInt(min, max) {
